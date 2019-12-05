@@ -1,0 +1,9 @@
+﻿{
+  "Id": "PondMerged",
+  "DisplayName": "合并所有鱼",
+  "Author": "Harrison",
+  "Version": "1.1.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "PondMerged.dll",
+  "EntryMethod": "PondMerged.MainMod.Load"
+}

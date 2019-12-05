@@ -1,0 +1,9 @@
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\bin\Debug\config.json
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\bin\Debug\info.json
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\bin\Debug\CharacterSpeedUp.dll
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\bin\Debug\CharacterSpeedUp.pdb
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\bin\Debug\Newtonsoft.Json.dll
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\bin\Debug\Newtonsoft.Json.xml
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\obj\Debug\CharacterSpeedUp.csproj.CopyComplete
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\obj\Debug\CharacterSpeedUp.dll
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\obj\Debug\CharacterSpeedUp.pdb

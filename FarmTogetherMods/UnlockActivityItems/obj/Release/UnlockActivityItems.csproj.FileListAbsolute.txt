@@ -1,0 +1,6 @@
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockActivityItems\info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockActivityItems\UnlockActivityItems.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockActivityItems\UnlockActivityItems.pdb
+D:\Work box\Project File\FarmTogetherMods\UnlockActivityItems\obj\Release\UnlockActivityItems.dll
+D:\Work box\Project File\FarmTogetherMods\UnlockActivityItems\obj\Release\UnlockActivityItems.pdb
+D:\Work box\Project File\FarmTogetherMods\UnlockActivityItems\obj\Release\UnlockActivityItems.csprojAssemblyReference.cache

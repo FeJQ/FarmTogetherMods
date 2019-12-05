@@ -1,0 +1,8 @@
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockActivityItems\info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockActivityItems\UnlockActivityItems.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockActivityItems\UnlockActivityItems.pdb
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockEventItems\info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockEventItems\UnlockEventItems.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\UnlockEventItems\UnlockEventItems.pdb
+D:\Work box\Project File\FarmTogetherMods\UnlockActivityItems\obj\Release\UnlockEventItems.dll
+D:\Work box\Project File\FarmTogetherMods\UnlockActivityItems\obj\Release\UnlockEventItems.pdb

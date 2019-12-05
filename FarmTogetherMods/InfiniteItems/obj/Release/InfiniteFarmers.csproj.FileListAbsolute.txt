@@ -1,0 +1,9 @@
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\bin\Release\Info.json
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\bin\Release\InfiniteFarmers.dll
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\bin\Release\InfiniteFarmers.pdb
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\InfiniteFarmers\Info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\InfiniteFarmers\InfiniteFarmers.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\InfiniteFarmers\InfiniteFarmers.pdb
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Release\InfiniteFarmers.dll
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Release\InfiniteFarmers.pdb
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Release\InfiniteFarmers.csprojAssemblyReference.cache

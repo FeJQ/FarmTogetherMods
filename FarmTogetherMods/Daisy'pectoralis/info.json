@@ -1,0 +1,9 @@
+﻿{
+  "Id": "Daisy'pectoralis",
+  "DisplayName": "铁汉柔情",
+  "Author": "Harrison",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "Daisy'pectoralis.dll",
+  "EntryMethod": "Daisy_pectoralis.MainMod.Load"
+}

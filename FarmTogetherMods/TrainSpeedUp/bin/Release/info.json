@@ -1,0 +1,9 @@
+{
+  "Id": "TrainSpeedUp",
+  "DisplayName": "»ð³µ¼ÓËÙ",
+  "Author": "Harrison",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "TrainSpeedUp.dll",
+  "EntryMethod": "TrainSpeedUp.MainMod.Load"
+}

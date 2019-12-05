@@ -1,0 +1,8 @@
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Release\InfiniteItems.dll
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Release\InfiniteItems.pdb
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Release\InfiniteItems.csprojAssemblyReference.cache
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\InfiniteItems\Info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\InfiniteItems\InfiniteItems.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\InfiniteItems\InfiniteItems.pdb
+D:\Work box\Project File\FarmTogetherMods\InfiniteItems\obj\Release\InfiniteItems.dll
+D:\Work box\Project File\FarmTogetherMods\InfiniteItems\obj\Release\InfiniteItems.pdb

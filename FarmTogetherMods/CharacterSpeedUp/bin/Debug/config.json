@@ -1,0 +1,16 @@
+{
+  "Speed":[
+    {
+      "Type": "BaseSpeed",
+      "Times": "2"
+    },
+    {
+      "Type": "SprintSpeed",
+      "Times": "2"
+    },
+    {
+      "Type": "AnimationSpeed",
+      "Times": "2"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\Work box\Project File\FarmTogetherMods\CustomFarmhandWorkRadius\bin\Release\CustomFarmhandWorkRadius.dll
+D:\Work box\Project File\FarmTogetherMods\CustomFarmhandWorkRadius\bin\Release\CustomFarmhandWorkRadius.pdb
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CustomFarmhandWorkRadius\info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CustomFarmhandWorkRadius\CustomFarmhandWorkRadius.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CustomFarmhandWorkRadius\CustomFarmhandWorkRadius.pdb
+D:\Work box\Project File\FarmTogetherMods\CustomFarmhandWorkRadius\obj\Release\CustomFarmhandWorkRadius.dll
+D:\Work box\Project File\FarmTogetherMods\CustomFarmhandWorkRadius\obj\Release\CustomFarmhandWorkRadius.pdb
+D:\Work box\Project File\FarmTogetherMods\CustomFarmhandWorkRadius\obj\Release\CustomFarmhandWorkRadius.csprojAssemblyReference.cache

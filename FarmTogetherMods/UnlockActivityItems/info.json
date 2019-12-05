@@ -1,0 +1,9 @@
+﻿{
+  "Id": "UnlockEventItems",
+  "DisplayName": "解锁活动物品",
+  "Author": "Harrison",
+  "Version": "1.0.1",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "UnlockEventItems.dll",
+  "EntryMethod": "UnlockEventItems.MainMod.Load"
+}

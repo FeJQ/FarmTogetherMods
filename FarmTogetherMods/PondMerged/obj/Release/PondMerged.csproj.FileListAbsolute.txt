@@ -1,0 +1,5 @@
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\PondMerged\info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\PondMerged\PondMerged.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\PondMerged\PondMerged.pdb
+D:\Work box\Project File\FarmTogetherMods\PondMerged\obj\Release\PondMerged.dll
+D:\Work box\Project File\FarmTogetherMods\PondMerged\obj\Release\PondMerged.pdb

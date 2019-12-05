@@ -1,0 +1,9 @@
+﻿{
+  "Id": "CustomFarmhandWorkRadius",
+  "DisplayName": "自定义农工工作半径",
+  "Author": "Harrison",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "CustomFarmhandWorkRadius.dll",
+  "EntryMethod": "CustomFarmhandWorkRadius.MainMod.Load"
+}

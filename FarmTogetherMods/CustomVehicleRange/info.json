@@ -1,0 +1,9 @@
+﻿{
+  "Id": "CustomVehicleRange",
+  "DisplayName": "自定义拖拉机范围",
+  "Author": "Harrison",
+  "Version": "1.1.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "CustomVehicleRange.dll",
+  "EntryMethod": "CustomVehicleRange.MainMod.Load"
+}

@@ -1,0 +1,12 @@
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\CharacterSpeedUp\obj\Release\CharacterSpeedUp.dll
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\CharacterSpeedUp\obj\Release\CharacterSpeedUp.pdb
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\CharacterSpeedUp\obj\Release\CharacterSpeedUp.csprojAssemblyReference.cache
+D:\Work box\Project File\FarmTogether_InfiniteFarmers\CharacterSpeedUp\obj\Release\CharacterSpeedUp.csproj.CopyComplete
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CharacterSpeedUp\config.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CharacterSpeedUp\info.json
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CharacterSpeedUp\CharacterSpeedUp.dll
+E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CharacterSpeedUp\CharacterSpeedUp.pdb
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\obj\Release\CharacterSpeedUp.csproj.CopyComplete
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\obj\Release\CharacterSpeedUp.dll
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\obj\Release\CharacterSpeedUp.pdb
+D:\Work box\Project File\FarmTogetherMods\CharacterSpeedUp\obj\Release\CharacterSpeedUp.csprojAssemblyReference.cache

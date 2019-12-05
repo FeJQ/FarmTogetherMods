@@ -1,0 +1,9 @@
+﻿{
+  "Id": "EventItemsCanBeHarvestedByFarmhand",
+  "DisplayName": "农工可以收获活动作物",
+  "Author": "Harrison",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "EventItemsCanBeHarvestedByFarmhand.dll",
+  "EntryMethod": "EventItemsCanBeHarvestedByFarmhand.MainMod.Load"
+}

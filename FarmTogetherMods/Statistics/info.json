@@ -1,0 +1,9 @@
+﻿{
+  "Id": "Statistics",
+  "DisplayName": "统计",
+  "Author": "Harrison",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "Statistics.dll",
+  "EntryMethod": "Statistics.MainMod.Load"
+}
