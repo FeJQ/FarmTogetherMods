@@ -1,0 +1,9 @@
+﻿{
+  "Id": "FarmHelper",
+  "DisplayName": "农场助手",
+  "Author": "Harrison",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "FarmHelper.dll",
+  "EntryMethod": "FarmHelper.MainMod.Load"
+}

@@ -1,9 +1,0 @@
-﻿{
-  "Id": "InfiniteItems",
-  "DisplayName": "解除购买上限",
-  "Author": "Harrison",
-  "Version": "1.0.0",
-  "ManagerVersion": "0.15.0.0",
-  "AssemblyName": "InfiniteItems.dll",
-  "EntryMethod": "InfiniteItems.MainMod.Load"
-}

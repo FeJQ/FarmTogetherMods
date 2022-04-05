@@ -1,7 +1,0 @@
-D:\Work box\Project File\FarmTogetherMods\InfiniteItems\bin\Debug\config.json
-D:\Work box\Project File\FarmTogetherMods\InfiniteItems\bin\Debug\Info.json
-D:\Work box\Project File\FarmTogetherMods\InfiniteItems\bin\Debug\InfiniteItems.dll
-D:\Work box\Project File\FarmTogetherMods\InfiniteItems\bin\Debug\InfiniteItems.pdb
-D:\Work box\Project File\FarmTogetherMods\InfiniteItems\obj\Debug\InfiniteItems.dll
-D:\Work box\Project File\FarmTogetherMods\InfiniteItems\obj\Debug\InfiniteItems.pdb
-D:\Work box\Project File\FarmTogetherMods\InfiniteItems\obj\Debug\InfiniteItems.csprojAssemblyReference.cache

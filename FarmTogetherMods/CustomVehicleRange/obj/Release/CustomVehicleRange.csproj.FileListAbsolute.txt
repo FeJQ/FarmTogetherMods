@@ -1,5 +1,0 @@
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CustomVehicleRange\info.json
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CustomVehicleRange\CustomVehicleRange.dll
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\CustomVehicleRange\CustomVehicleRange.pdb
-D:\Work box\Project File\FarmTogetherMods\CustomVehicleRange\obj\Release\CustomVehicleRange.dll
-D:\Work box\Project File\FarmTogetherMods\CustomVehicleRange\obj\Release\CustomVehicleRange.pdb

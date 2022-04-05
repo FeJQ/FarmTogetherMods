@@ -1,6 +1,0 @@
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\EventItemsCanBeHarvestedByFarmhand\info.json
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\EventItemsCanBeHarvestedByFarmhand\EventItemsCanBeHarvestedByFarmhand.dll
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\EventItemsCanBeHarvestedByFarmhand\EventItemsCanBeHarvestedByFarmhand.pdb
-D:\Work box\Project File\FarmTogetherMods\EventItemsCanBeHarvestedByFarmhand\obj\Release\EventItemsCanBeHarvestedByFarmhand.dll
-D:\Work box\Project File\FarmTogetherMods\EventItemsCanBeHarvestedByFarmhand\obj\Release\EventItemsCanBeHarvestedByFarmhand.pdb
-D:\Work box\Project File\FarmTogetherMods\EventItemsCanBeHarvestedByFarmhand\obj\Release\EventItemsCanBeHarvestedByFarmhand.csprojAssemblyReference.cache

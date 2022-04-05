@@ -1,5 +1,0 @@
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\Statistics\info.json
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\Statistics\Statistics.dll
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\Statistics\Statistics.pdb
-D:\Work box\Project File\FarmTogetherMods\Statistics\obj\Release\Statistics.dll
-D:\Work box\Project File\FarmTogetherMods\Statistics\obj\Release\Statistics.pdb

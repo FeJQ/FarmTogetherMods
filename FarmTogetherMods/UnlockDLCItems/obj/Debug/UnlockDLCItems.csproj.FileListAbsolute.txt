@@ -1,6 +1,0 @@
-D:\Work box\Project File\FarmTogetherMods\UnlockDLCItems\bin\Debug\info.json
-D:\Work box\Project File\FarmTogetherMods\UnlockDLCItems\bin\Debug\UnlockDLCItems.dll
-D:\Work box\Project File\FarmTogetherMods\UnlockDLCItems\bin\Debug\UnlockDLCItems.pdb
-D:\Work box\Project File\FarmTogetherMods\UnlockDLCItems\obj\Debug\UnlockDLCItems.dll
-D:\Work box\Project File\FarmTogetherMods\UnlockDLCItems\obj\Debug\UnlockDLCItems.pdb
-D:\Work box\Project File\FarmTogetherMods\UnlockDLCItems\obj\Debug\UnlockDLCItems.csprojAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\Daisy'pectoralis\info.json
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\Daisy'pectoralis\Daisy'pectoralis.dll
-E:\Program Files (x86)\steamapps\common\Farm Together\Mods\Daisy'pectoralis\Daisy'pectoralis.pdb
-D:\Work box\Project File\FarmTogetherMods\Daisy'pectoralis\obj\Release\Daisy'pectoralis.dll
-D:\Work box\Project File\FarmTogetherMods\Daisy'pectoralis\obj\Release\Daisy'pectoralis.pdb

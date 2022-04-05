@@ -1,0 +1,9 @@
+﻿{
+  "Id": "UnlockDLCItems",
+  "DisplayName": "解锁DLC物品",
+  "Author": "Harrison",
+  "Version": "1.2.0",
+  "ManagerVersion": "0.15.0.0",
+  "AssemblyName": "UnlockDLCItems.dll",
+  "EntryMethod": "UnlockDLCItems.MainMod.Load"
+}

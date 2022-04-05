@@ -1,5 +1,0 @@
-D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\bin\Debug\config.json
-D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\bin\Debug\FarmTogether_InfiniteFarmers.dll
-D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\bin\Debug\FarmTogether_InfiniteFarmers.pdb
-D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Debug\FarmTogether_InfiniteFarmers.dll
-D:\Work box\Project File\FarmTogether_InfiniteFarmers\FarmTogether_InfiniteFarmers\obj\Debug\FarmTogether_InfiniteFarmers.pdb
